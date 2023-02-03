@@ -11343,7 +11343,7 @@ header.masthead .masthead-content {
   position: relative;
 }
 header.masthead .masthead-content .masthead-heading {
-  color:#003f5e;
+  color:#fa8500;
   font-size: 4rem;
 }
 header.masthead .masthead-content .masthead-subheading {
@@ -11470,4 +11470,31 @@ header.masthead .bg-circle-4 {
     to {
         background-size: 100% 100%;
     }
+}
+.fab {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  padding-right: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.padkiri {
+  padding-left: 100px;
+}
+
+.pad {
+  padding-right: 30px;
+}
+
+.padyt {
+  padding-left: 30px;
+  padding-top: 1000px;
 }
